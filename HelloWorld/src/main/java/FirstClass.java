@@ -8,7 +8,7 @@ public class FirstClass {
         this.b = b;
     }
 
-    public int sumVar(){ return a+b;}
+    public int sumVar(){ return a-b;}
 
     public int multiplyVar(){ return a*b;}
 
