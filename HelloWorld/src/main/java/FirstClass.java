@@ -12,6 +12,4 @@ public class FirstClass {
 
     public int multiplyVar(){ return a*b;}
 
-    public boolean alwaysTrue(){ return 2 == 2;}
-
 }
