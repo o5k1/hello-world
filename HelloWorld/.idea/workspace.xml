@@ -60,8 +60,8 @@
       <file leaf-file-name="FirstClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/FirstClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41564792">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.70660144">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -647,7 +647,13 @@
       <option name="project" value="LOCAL" />
       <updated>1461331166101</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="sumVar() restored&#10;">
+      <created>1461331611532</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1461331611532</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -714,7 +720,8 @@
     <MESSAGE value="added test report in Home" />
     <MESSAGE value="added error with purpose in sumVar() method" />
     <MESSAGE value="first added&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="first added&#10;" />
+    <MESSAGE value="sumVar() restored&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="sumVar() restored&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -799,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FirstClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41564792">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.70660144">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
