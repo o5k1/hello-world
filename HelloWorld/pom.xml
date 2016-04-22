@@ -5,8 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.andrea.helloworld</groupId>
-    <artifactId>helloworld</artifactId>
+    <artifactId>hello_world</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <dependencies></dependencies>
 
 
 </project>
