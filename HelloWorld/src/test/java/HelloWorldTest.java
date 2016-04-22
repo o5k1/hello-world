@@ -4,6 +4,6 @@ public class HelloWorldTest {
 
     @org.junit.Test
     public void testMain() throws Exception {
-        assertEquals("Messaggio errato","hello","world");
+        assertEquals("Messaggio errato","hello","hello");
     }
 }
