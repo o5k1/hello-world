@@ -11,7 +11,7 @@ public class FirstClass {
     }
 
     public int sumVar() {
-        return a - b;
+        return a + b;
     }
 
     public int multiplyVar() {
