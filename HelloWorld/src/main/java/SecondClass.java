@@ -4,7 +4,7 @@
 public class SecondClass {
 
     public static String fooA(){
-        return "fooB";
+        return "fooA";
     }
 
     public static String fooB(){
