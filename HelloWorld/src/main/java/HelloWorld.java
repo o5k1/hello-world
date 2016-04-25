@@ -5,6 +5,7 @@ public class HelloWorld {
 
         FirstClass f = new FirstClass(1,2);
         f.incorrectAssignmentInIfCondition();
-
+	
+	System.out.println("prova");
     }
 }
